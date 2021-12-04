@@ -271,4 +271,4 @@ SnapAttraction 10
 # alt-tabbing
 Key Tab A M Next (CurrentDesk !Iconic) Focus
 # alt-shift-tabbing to reverse
-# Key Tab A SM Prev (CurrentDesk !Iconic) Focus
+Key Tab A SM Prev (CurrentDesk !Iconic) Focus
